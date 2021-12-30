@@ -1,0 +1,24 @@
+body{
+  background-color: lightblue;}
+h1{
+  body{
+  text-align: center;
+  color:green;
+  }
+
+  <br>
+p{
+  color: green;
+
+}
+<br>
+hr{
+border-style:none;
+background-color: black;
+}
+img{
+  background-color: red;
+}
+.cat{
+  background-color: red;
+}
